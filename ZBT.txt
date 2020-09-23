@@ -1,0 +1,90 @@
+Zale Bot Triggers
+=================
+
+Thank - Reacts with a cookie
+
+Cookie - Reacts with a cookie
+
+Two/2 cookies - Reacts with two cookies
+
+Three/3 cookies - Reacts with three cookies
+
+Four/4 cookies - Reacts with four cookies
+
+Five/5 cookies - Reacts with 5 cookies
+
+Good Job - Reacts with a cookie
+
+find apks/get apk/free apk/n APK - Please read the #faq!
+
+find games/get games/free games - Please read the #faq!
+
+Help me - Please read the #faq before asking for help!
+
+won't detect - Please make sure you have ADB drivers installed and developer mode enable on your Quest
+
+work on Quest 2/work on the Quest 2/Quest 2 games/on the new Quest/pirate on Quest 2 - We do not currently know if Quest apps and current sideloading methods will work on the newest Quest. Please refer to the pinned messages in #quest for more details.
+
+sideload on Quest 2 - https://raw.githubusercontent.com/ZaleAnderson/zalebot/master/unknown.png
+
+Safeside - Please do not use SideQuest to sideload external cracked content
+
+read 1 of null/-00 - Please remove the '-' from the filename and everything after it.
+
+get the sideloader/ownload the sideloader - Download Rookie Sideloader VRP Edition from https://t.me/VRPirates
+
+use the sideloader/use the side loader - Please refer to this video https://canary.discordapp.com/channels/645713081871106053/757660028940451900/757673842847121510
+
+is the sideloader/is the side loader - Rookie's Android Sideloader is a Windows x64 based adb tool with a graphical interface to make sideloading apks and obbs easier and more intuitive. Download Rookie Sideloader VRP Edition from https://t.me/VRPirates
+
+sideloader on mac - There is no intent of making a version for Mac, please look here for more info #faq
+
+sideloader on github - https://github.com/nerdunit/androidsideloader/releases
+
+manually - Trying to sideload the manual way? Look here! #faq!
+
+cannot find the games - Cannot find the games on your Quest? From your Quest headset, go to Library -> Unknown Sources
+
+cannot find headset/cannot see headset/headset not detected/cannot see my headset/cannot find my headset - Please make sure developer mode is enabled on the headset, the oculus adb drivers install on your computer, and to accept the prompts in the headset. Still not working? Contact a staff member or read through #faq
+
+black screen - Please reinstall the app and check to make sure if it has an obb, it was installed correctly. Also, if there is a dash, please remove the '-' and everything after it. Refer here for more info https://discord.com/channels/645713081871106053/757660028940451900
+
+install PCVR games/install games/install apks/help installing - Please refer here for instructions https://discord.com/channels/645713081871106053/757660028940451900
+
+multiplayer work - Most patched games do not have working multiplayer. Dead & Buried 2, Drunkn Bar Fight, Elven Assassin, and Onward are reported to work, however.
+
+get banned - There have been no reports of anyone getting banned from pirating or sideloading.
+
+disable telemetry - Looking to disable the telemetry? Use this! https://github.com/ZaleAnderson/zalebot/blob/master/Quest_dt.zip?raw=true
+
+increase resolution/quests resolution/quest resolution - Looking to increase the resolution of the Quest? Try one of these. (Not Tested) https://drive.google.com/file/d/1dhW6QZW7u8M9xM8rQ-S0937Pgd0GpJvK/view
+
+inject - This should help you! #faq
+
+virtual desktop cracked/vd cracked/vd for free/virtual desktop for free/free vd/pirate virtual desktop - There is no apk for virtual desktop or anyway to get it for free.
+
+mod beat saber/mod beatsaber - Use BMBF for that. If this did not help, please refer to #beat-saber-mods
+
+download quota exceded - Hey there! Please right click on the file you are trying to download and click make a copy. :)
+
+thirteen - Reacts with Taylor Swift 13 emote
+
+Taylor Swift - Sends fun message
+
+help walking my dog - https://www.youtube.com/watch?v=KOwR0Ln46Ks
+
+bepis - https://github.com/ZaleAnderson/zalebot/blob/master/ezgif.com-optimize.gif?raw=true
+
+Bad bot - bad bot go brrr
+
+Porn - https://github.com/ZaleAnderson/zalebot/blob/master/no-i-m-with-the-science-video-720p-mp4.mp4?raw=true
+
+jason - https://raw.githubusercontent.com/ZaleAnderson/zalebot/master/JASON.png
+
+Shutup bot - Middle finger reaction
+
+good zale bot - Cookie reaction & Beep boop YAAAAY
+
+f - F reaction
+
+party - Skwôôôôôôôôôôk! Did someone say, PARTY? https://raw.githubusercontent.com/ZaleAnderson/zalebot/master/pp.gif

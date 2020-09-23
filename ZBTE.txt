@@ -1,0 +1,122 @@
+{
+  "embed": {
+    "color": 16711777,
+    "footer": {
+      "icon_url": "https://github.com/ZaleAnderson/zalebot/blob/master/pfp.png?raw=true",
+      "text": "© 2020 Zale Anderson"
+    },
+    "thumbnail": {
+      "url": "https://github.com/ZaleAnderson/zalebot/blob/master/pfp.png?raw=true"
+    },
+    "image": {
+      "url": "https://github.com/ZaleAnderson/zalebot/blob/master/Logo.png?raw=true"
+    },
+    "author": {
+      "name": "Zale Bot",
+      "url": "https://discordapp.com",
+      "icon_url": "https://github.com/ZaleAnderson/zalebot/blob/master/pfp.png?raw=true"
+    },
+    "fields": [
+      {
+        "name": "***Zale Bot Triggers***",
+        "value": "========================"
+      },
+      {
+        "name": "**Thank**",
+        "value": "Reacts with a cookie"
+      },
+      {
+        "name": "**Cookie**",
+        "value": "Reacts with a cookie"
+      },
+      {
+        "name": "**Two/2 cookies**",
+        "value": "Reacts with two cookies"
+      },
+      {
+        "name": "**Three/3 cookies**",
+        "value": "Reacts with three cookies"
+      },
+      {
+        "name": "**Four/4 cookies**",
+        "value": "Reacts with four cookies"
+      },
+      {
+        "name": "**Five/5 cookies**",
+        "value": "Reacts with five cookies"
+      },
+      {
+        "name": "**Good Job**",
+        "value": "Reacts with a cookie"
+      },
+      {
+        "name": "**find apks/get apk/free apk/n APK**",
+        "value": "Please read the #faq!"
+      },
+      {
+        "name": "**find games/get games/free games**",
+        "value": "Please read the #faq!"
+      },
+      {
+        "name": "**Help me**",
+        "value": "Please read the #faq before asking for help!"
+      },
+      {
+        "name": "**won't detect**",
+        "value": "Please make sure you have ADB drivers installed and developer mode enable on your Quest"
+      },
+      {
+        "name": "**work on Quest 2/work on the Quest 2/Quest 2 games/on the new Quest/pirate on Quest 2**",
+        "value": "We do not currently know if Quest apps and current sideloading methods will work on the newest Quest. Please refer to the pinned messages in #quest for more details."
+      },
+      {
+        "name": "**sideload on Quest 2**",
+        "value": "https://raw.githubusercontent.com/ZaleAnderson/zalebot/master/unknown.png"
+      },
+      {
+        "name": "**Safeside**",
+        "value": "Please do not use SideQuest to sideload external cracked content"
+      },
+      {
+        "name": "**read 1 of null/-00**",
+        "value": "Please remove the '-' from the filename and everything after it."
+      },
+      {
+        "name": "**get the sideloader/ownload the sideloader**",
+        "value": "Download Rookie Sideloader VRP Edition from https://t.me/VRPirates"
+      },
+      {
+        "name": "**use the sideloader/use the side loader**",
+        "value": "Please refer to this video https://canary.discordapp.com/channels/645713081871106053/757660028940451900/757673842847121510"
+      },
+      {
+        "name": "**is the sideloader/is the side loader**",
+        "value": "Rookie's Android Sideloader is a Windows x64 based adb tool with a graphical interface to make sideloading apks and obbs easier and more intuitive. Download Rookie Sideloader VRP Edition from https://t.me/VRPirates"
+      },
+      {
+        "name": "**sideloader on mac**",
+        "value": "There is no intent of making a version for Mac, please look here for more info #faq"
+      },
+      {
+        "name": "**sideloader on github**",
+        "value": "https://github.com/nerdunit/androidsideloader/releases"
+      },
+      {
+        "name": "**manually**",
+        "value": "Trying to sideload the manual way? Look here! #faq!"
+      },
+      {
+        "name": "**cannot find the games**",
+        "value": "Cannot find the games on your Quest? From your Quest headset, go to Library -> Unknown Sources"
+      },
+      {
+        "name": "**cannot find headset/cannot see headset/headset not detected/cannot see my headset/cannot find my headset**",
+        "value": "Please make sure developer mode is enabled on the headset, the oculus adb drivers install on your computer, and to accept the prompts in the headset. Still not working? Contact a staff member or read through #faq"
+      },
+      {
+        "name": "***Any sentence that contains: who, what, when, where, how, why, Zale, @ , or an attachment is automatically logged to help improve the bot.***",
+        "value": "‎"
+      }
+    ]
+  }
+}

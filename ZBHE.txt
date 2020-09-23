@@ -1,0 +1,123 @@
+{
+  "embed": {
+    "color": 16711777,
+    "footer": {
+      "icon_url": "https://github.com/ZaleAnderson/zalebot/blob/master/pfp.png?raw=true",
+      "text": "© 2020 Zale Anderson"
+    },
+    "thumbnail": {
+      "url": "https://github.com/ZaleAnderson/zalebot/blob/master/pfp.png?raw=true"
+    },
+    "image": {
+      "url": "https://github.com/ZaleAnderson/zalebot/blob/master/Logo.png?raw=true"
+    },
+    "author": {
+      "name": "Zale Bot",
+      "url": "https://discordapp.com",
+      "icon_url": "https://github.com/ZaleAnderson/zalebot/blob/master/pfp.png?raw=true"
+    },
+    "fields": [
+      {
+        "name": "***Zale Bot Commands***",
+        "value": "========================"
+      },
+      {
+        "name": "**ZAR**",
+        "value": "Restarts the bot (Visible on bot status)"
+      },
+      {
+        "name": "**ZA Test**",
+        "value": "Runs a few commands to make sure the bot is working"
+      },
+      {
+        "name": "**ZA Ping**",
+        "value": "Pings the bot"
+      },
+      {
+        "name": "**ZA Time**",
+        "value": "Gives the epoch time"
+      },
+      {
+        "name": "**ZA Version**",
+        "value": "Displays bot build number"
+      },
+      {
+        "name": "**ZA Help**",
+        "value": "DMs user this"
+      },
+      {
+        "name": "**ZA Triggers**",
+        "value": "DMs the user a trigger list"
+      },
+      {
+        "name": "**ZA Clear**",
+        "value": "Purges the last 100 messages"
+      },
+      {
+        "name": "**ZA Icons**",
+        "value": "Gives icons related to Zale bot and VRP"
+      },
+      {
+        "name": "**ZA Bug**",
+        "value": "DMs Zale saying you found a bug"
+      },
+      {
+        "name": "**ZA Donate**",
+        "value": "Gives Zale's paypal.me link"
+      },
+      {
+        "name": "**Treasure Chest**",
+        "value": "DMs user bot credits"
+      },
+      {
+        "name": "**VRP Discord**",
+        "value": "Gives VRP Discord invite in text channel"
+      },
+      {
+        "name": "**SQ Discord**",
+        "value": "Gives the SideQuest Discord invite"
+      },
+      {
+        "name": "**BSMG Discord**",
+        "value": "Gives the Beat Saber Modding Group Discord invite"
+      },
+      {
+        "name": "**QH Discord**",
+        "value": "Gives the Quest Homes Discord invite"
+      },
+      {
+        "name": "**Qos Discord**",
+        "value": "Gives the Qosmetics (QuestSaber) Discord invite"
+      },
+      {
+        "name": "**QB Discord**",
+        "value": "Gives the QuestBoard Discord invite"
+      },
+      {
+        "name": "**Test Discord**",
+        "value": "Gives Zale Bot testing Discord invite"
+      },
+      {
+        "name": "**ZA Number**",
+        "value": "DMs user Zale's alt phone number"
+      },
+      {
+        "name": "**ZA Spotify**",
+        "value": "DMs user Zale's Spotify"
+      },
+      {
+        "name": "**ZA Snapchat**",
+        "value": "DMs user Zale's Snapchat"
+      },
+      {
+        "name": "**ZA Instagram**",
+        "value": "DMs user Zale's Instagram"
+      },
+      
+      {
+        "name": "***Any sentence that contains: who, what, when, where, how, why, Zale, @ , or an attachment is automatically logged to help improve the bot.***",
+        "value": "‎"
+      }
+    ]
+  }
+}

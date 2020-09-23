@@ -1,0 +1,122 @@
+{
+  "embed": {
+    "color": 16711777,
+    "footer": {
+      "icon_url": "https://github.com/ZaleAnderson/zalebot/blob/master/pfp.png?raw=true",
+      "text": "© 2020 Zale Anderson"
+    },
+    "thumbnail": {
+      "url": "https://github.com/ZaleAnderson/zalebot/blob/master/pfp.png?raw=true"
+    },
+    "image": {
+      "url": "https://github.com/ZaleAnderson/zalebot/blob/master/Logo.png?raw=true"
+    },
+    "author": {
+      "name": "Zale Bot",
+      "url": "https://discordapp.com",
+      "icon_url": "https://github.com/ZaleAnderson/zalebot/blob/master/pfp.png?raw=true"
+    },
+    "fields": [
+      {
+        "name": "***Zale Bot Triggers***",
+        "value": "========================"
+      },
+      {
+        "name": "**black screen**",
+        "value": "Please reinstall the app and check to make sure if it has an obb, it was installed correctly. Also, if there is a dash, please remove the '-' and everything after it. Refer here for more info https://discord.com/channels/645713081871106053/757660028940451900"
+      },
+      {
+        "name": "**install PCVR games/install games/install apks/help installing**",
+        "value": "Please refer here for instructions https://discord.com/channels/645713081871106053/757660028940451900"
+      },
+      {
+        "name": "**multiplayer work**",
+        "value": "Most patched games do not have working multiplayer. Dead & Buried 2, Drunkn Bar Fight, Elven Assassin, and Onward are reported to work, however."
+      },
+      {
+        "name": "**get banned**",
+        "value": "There have been no reports of anyone getting banned from pirating or sideloading."
+      },
+      {
+        "name": "**disable telemetry**",
+        "value": "Looking to disable the telemetry? Use this! https://github.com/ZaleAnderson/zalebot/blob/master/Quest_dt.zip?raw=true"
+      },
+      {
+        "name": "**increase resolution/quests resolution/quest resolution**",
+        "value": "Looking to increase the resolution of the Quest? Try one of these. (Not Tested) https://drive.google.com/file/d/1dhW6QZW7u8M9xM8rQ-S0937Pgd0GpJvK/view"
+      },
+      {
+        "name": "**inject**",
+        "value": "This should help you! #faq"
+      },
+      {
+        "name": "**virtual desktop cracked/vd cracked/vd for free/virtual desktop for free/free vd/pirate virtual desktop**",
+        "value": "There is no apk for virtual desktop or anyway to get it for free."
+      },
+      {
+        "name": "**mod beat saber/mod beatsaber**",
+        "value": "Use BMBF for that. If this did not help, please refer to #beat-saber-mods"
+      },
+      {
+        "name": "**download quota exceded**",
+        "value": "Hey there! Please right click on the file you are trying to download and click make a copy. :)"
+      },
+      {
+        "name": "**thirteen**",
+        "value": "Reacts with Taylor Swift 13 emote"
+      },
+      {
+        "name": "**Taylor Swift**",
+        "value": "Sends fun message"
+      },
+      {
+        "name": "**help walking my dog**",
+        "value": "https://www.youtube.com/watch?v=KOwR0Ln46Ks"
+      },
+      {
+        "name": "**bepis**",
+        "value": "https://github.com/ZaleAnderson/zalebot/blob/master/ezgif.com-optimize.gif?raw=true"
+      },
+      {
+        "name": "**Bad bot**",
+        "value": "bad bot go brrr"
+      },
+      {
+        "name": "**Porn**",
+        "value": "https://github.com/ZaleAnderson/zalebot/blob/master/no-i-m-with-the-science-video-720p-mp4.mp4?raw=true"
+      },
+      {
+        "name": "**jason**",
+        "value": "https://raw.githubusercontent.com/ZaleAnderson/zalebot/master/JASON.png"
+      },
+      {
+        "name": "**Shutup bot**",
+        "value": "Middle finger reaction"
+      },
+      {
+        "name": "**good zale bot**",
+        "value": "Cookie reaction & Beep boop YAAAAY"
+      },
+      {
+        "name": "**f**",
+        "value": "F reaction"
+      },
+      {
+        "name": "**party**",
+        "value": "Skwôôôôôôôôôôk! Did someone say, PARTY? https://raw.githubusercontent.com/ZaleAnderson/zalebot/master/pp.gif"
+      },
+      {
+        "name": "**‎**",
+        "value": "‎"
+      },
+      {
+        "name": "**‎**",
+        "value": "‎"
+      },
+      {
+        "name": "***Any sentence that contains: who, what, when, where, how, why, Zale, @ , or an attachment is automatically logged to help improve the bot.***",
+        "value": "‎"
+      }
+    ]
+  }
+}
