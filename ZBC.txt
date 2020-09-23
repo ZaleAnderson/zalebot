@@ -1,0 +1,49 @@
+Zale Bot Commands
+========================
+VRP Discord - Gives VRP Discord invite in text channel
+
+Test Discord - Gives Zale Bot testing Discord invite
+
+SQ Discord - Gives the SideQuest Discord invite
+
+BSMG Discord - Gives the Beat Saber Modding Group Discord invite
+
+QH Discord - Gives the Quest Homes Discord invite
+
+Qos Discord - Gives the Qosmetics (QuestSaber) Discord invite
+
+QB Discord - Gives the QuestBoard Discord invite
+
+ZAR - Restarts the bot (Visible on bot status)
+
+ZA Icons - Gives icons related to Zale bot and VRP
+
+ZA Clear - Deletes past 100 messages in current text channel
+
+ZAV / ZA Version - Displays bot version
+
+ZA Ping - Pings the bot
+
+ZA Time - Gives the epoch time
+
+ZA Bug - DMs Zale saying you found a bug
+
+ZA Test - Runs a few commands to make sure the bot is working
+
+ZA Instagram - DMs user Zale's Instagram
+
+ZA Snapchat - DMs user Zale's Snapchat
+
+ZA Spotify - DMs user Zale's Spotify
+
+ZA Number - DMs user Zale's alt phone number
+
+Treasure Chest - DMs user bot credits
+
+ZA Help - DMs user this
+
+ZA Triggers - DMs user trigger list
+
+ZA Donate - Gives Zale's paypal.me link
+
+--Any sentence with who, what, when, where, how, why, Zale, @, or an attachment is automatically logged to help improve the bot.--
